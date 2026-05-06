@@ -130,12 +130,6 @@ const ashish = {
 
 <img width="100%" src="https://github.com/ashishghadigaonkar/ashishghadigaonkar/raw/main/github-metrics.svg" />
 
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishghadigaonkar&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9" />
-</div>
-
 </div>
 
 ---
