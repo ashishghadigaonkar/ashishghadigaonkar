@@ -186,8 +186,7 @@ const ashish = {
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Ashish__Ghadigaonkar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ashish_Ghadigaonkar/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-t220i3iy-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/t220i3iy)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR_HR)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CF)
+
 
 <br/>
 
@@ -253,7 +252,7 @@ const ashish = {
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-t220i3iy-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/t220i3iy)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Ashish__Ghadigaonkar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ashish_Ghadigaonkar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t220256@famt.ac.in)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+
 
 </div>
 
