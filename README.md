@@ -128,12 +128,13 @@ const ashish = {
 
 <div align="center">
 
-<img width="100%" src="https://metrics.lecoq.io/ashishghadigaonkar?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FKolkata" />
+<img width="100%" src="https://github.com/ashishghadigaonkar/ashishghadigaonkar/raw/main/github-metrics.svg" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishghadigaonkar&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9" />
-<img width="49%" src="https://github-readme-stats-tau-liart.vercel.app/api/top-langs/?username=ashishghadigaonkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishghadigaonkar&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9" />
+</div>
 
 </div>
 
