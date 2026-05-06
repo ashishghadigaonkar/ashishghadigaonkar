@@ -128,12 +128,12 @@ const ashish = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-tau-liart.vercel.app/api?username=ashishghadigaonkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&include_all_commits=true&cache_seconds=1800" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishghadigaonkar&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&cache_seconds=1800" />
+<img width="100%" src="https://metrics.lecoq.io/ashishghadigaonkar?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FKolkata" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats-tau-liart.vercel.app/api/top-langs/?username=ashishghadigaonkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishghadigaonkar&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9" />
+<img width="49%" src="https://github-readme-stats-tau-liart.vercel.app/api/top-langs/?username=ashishghadigaonkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
