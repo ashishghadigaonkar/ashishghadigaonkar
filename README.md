@@ -124,11 +124,19 @@ const ashish = {
 <!--                      GITHUB STATS                              -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img width="100%" src="https://github.com/ashishghadigaonkar/ashishghadigaonkar/raw/main/github-metrics.svg" />
+### 📊 GitHub Metrics
+
+![Commits](https://img.shields.io/badge/Commits-243+-7c3aed?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars-2-f472b6?style=for-the-badge&logo=github&logoColor=white)
+![PRs](https://img.shields.io/badge/PRs-9-7c3aed?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions-Active-success?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+<img width="48%" src="https://github-readme-stats-tau-liart.vercel.app/api/top-langs/?username=ashishghadigaonkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishghadigaonkar&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9" />
 
 </div>
 
