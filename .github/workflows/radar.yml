@@ -16,10 +16,10 @@ jobs:
           template: classic
           base: ""
           
-          # Focus only on the Activity Overview summary (Radar Chart)
-          plugin_habits: yes
-          plugin_habits_from: 1000
-          plugin_habits_days: 14
-          plugin_habits_charts_type: radar
+          # This plugin generates the exact Radar chart (Commits/PRs/Issues) you want
+          plugin_activity: yes
+          plugin_activity_type: summary
+          plugin_activity_charts: yes
+          plugin_activity_charts_radar: yes
           
           filename: activity-radar.svg
