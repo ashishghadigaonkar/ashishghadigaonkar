@@ -124,7 +124,7 @@ const ashish = {
 
 ### 📊 Activity Overview
 
-<img width="100%" src="https://github.com/ashishghadigaonkar/ashishghadigaonkar/raw/main/activity-radar.svg" />
+<img width="100%" src="https://github.com/ashishghadigaonkar/ashishghadigaonkar/raw/main/activity-radar.svg?v=1" />
 
 </div>
 
