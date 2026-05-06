@@ -122,6 +122,16 @@ const ashish = {
 
 <div align="center">
 
+### 📊 Activity Overview
+
+<img width="100%" src="https://github.com/ashishghadigaonkar/ashishghadigaonkar/raw/main/activity-radar.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
 ### 📊 GitHub Metrics
 
 <img width="100%" src="https://github.com/ashishghadigaonkar/ashishghadigaonkar/raw/main/github-metrics.svg" />
